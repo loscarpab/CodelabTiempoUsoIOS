@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2025-01-01T18:10:33+01:00",
+  "id": "tiempo-uso-ios",
+  "duration": 0,
+  "title": "",
+  "summary": "Aprende cómo monitorear el uso del móvil en dispositivos iOS",
+  "source": ".\\codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "bienestardigital"
+  ],
+  "tags": [],
+  "url": "tiempo-uso-ios"
+}
